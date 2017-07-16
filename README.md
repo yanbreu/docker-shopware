@@ -5,7 +5,7 @@ Docker environment params
 
 ### Base
 
-#### NO_SW
+#### DONT_INSTALL
 (default: not set)
 Don't install shopware.
 
